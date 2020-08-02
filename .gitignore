@@ -9,8 +9,6 @@
 /captures
 .externalNativeBuild
 /app/release
-/app/src/androidTest
-/app/src/test
 /.idea/caches/
 /.idea/codeStyles/
 /.idea/
