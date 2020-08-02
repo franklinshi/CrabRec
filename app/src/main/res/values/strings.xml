@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">螃蟹精准溯源</string>
+    <string name="tab1">比对</string>
+    <string name="tab2">识别</string>
+    <string name="tab3">智能识别</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
